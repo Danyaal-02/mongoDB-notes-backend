@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+#.env
+
+# Log files
+*.log
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# macOS directory attributes
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# NPM debug log files
+npm-debug.log*
+
+# Yarn debug log files
+yarn-debug.log*
+yarn-error.log*
+
+# Compiled binary addons (such as node-sass)
+/build/
+
+# Distribution directories
+/dist/
+/out/
+
+# Local development files
+.local/
