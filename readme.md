@@ -9,7 +9,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository from the URL:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Danyaal-02/mongoDB-notes-backend.git
    ```
 
 2. Navigate into the cloned directory:
